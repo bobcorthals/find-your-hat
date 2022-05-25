@@ -5,6 +5,7 @@ Codecademy challenge project (part of [Full Stack Engineer Path](https://www.cod
 ## Contents
 
 * [Description](#description)
+* [Instructions](#instructions)
 * [Aims](#aims)
 * [Technologies](#technologies)
 * [Detailed description](#detailed-description)
@@ -14,6 +15,14 @@ Codecademy challenge project (part of [Full Stack Engineer Path](https://www.cod
 ## Description
 
 Game written in JavaScript that can be run in the terminal with Node.js. The player has lost his hat and should navigate a field set with occasional "holes" in order to retrieve it.
+
+### Instructions
+
+* git clone https://github.com/bobcorthals/find-your-hat.git;
+* open terminal and cd to folder;
+* run the game with "node main.js" (Node.js required);
+
+To compare the result with the solution offered by Codecademy, run "node main_codecademy_solution.js".
 
 ### Aims
 

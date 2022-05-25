@@ -1,3 +1,6 @@
+// Example solution find-your-hat challenge project provided by Codecademy
+// See: https://discuss.codecademy.com/t/find-your-hat-challenge-project-javascript/462380 (top post)
+
 const prompt = require('prompt-sync')({sigint: true});
 
 const hat = '^';
